@@ -1,4 +1,4 @@
-const apiKey = 'Wk8b4sm9Eh8Uh1JPkEyyfSBqiL2ERLYmY9S61N1dKUqyE2tJcgb6A1c_JGKyWtZWOovJKInM3fLDNVYLy5L8yGIvJx2Us_43aQBnhtDASyRQOjC06EB1x__6ENDEXnYx';
+const apiKey = '';
 
 export let Yelp = {
 search(term, location, sortBy){
